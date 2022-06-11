@@ -1,7 +1,6 @@
 # H2O - SQL
-<img src="https://img.shields.io/github/license/fvildoso/sqlalchemy-kimetsunoyaiba" alt="license">
 <br>
-Este repositorio contiene ejemplos de como usar SQL Alchemy con la base de datos de prueba de Kimetsu no Yaiba
+Este repositorio contiene un ejemplo de como usar H2O con MariaDB
 
 ## Instrucciones
 
