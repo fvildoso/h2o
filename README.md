@@ -32,5 +32,9 @@ Este repositorio contiene un ejemplo de como usar H2O con MariaDB
     
 11. No cerrar la terminal ni cancelar la ejecución de H2O. En otra línea de comandos, ejecutar el script con `python main_sql.py`; o ejectuar desde PyCharm. En ambos casos, debería mostrar al final en pantalla el AUC.
 
+## Jupyter playground
+
+Una vez completados todos los pasos anteriores (el 10 no es necesario) se puede experimentar con H2o en el notebook `playground.ipynb`. Si se abre el _notebook_desde PyCharm, automáticamente se ejecuta el servidor local para usar el _notebook_.
+
 
 <img src="media/elmo.jpg" alt="nice">
