@@ -22,8 +22,8 @@ Este repositorio contiene un ejemplo de como usar H2O con MariaDB
    <u>Imagen de referencia</u> <img src="media/img.png" alt="example 1">
 10. Ejecutar comando en una consola CMD/PowerShell (Windows) o terminal (Max/Linux) en la carpeta donde está descomprimido H2O:
      - Windows:
-     - - CMD: `java -cp h2o.jar;mariadb-java-client-3.0.5.jar water.H2OApp`
-     - - Powershell: `java -cp "h2o.jar;mariadb-java-client-3.0.5.jar" water.H2OApp`
+       - CMD: `java -cp h2o.jar;mariadb-java-client-3.0.5.jar water.H2OApp`
+       - Powershell: `java -cp "h2o.jar;mariadb-java-client-3.0.5.jar" water.H2OApp`
      - Linux/Mac: `java -cp h2o.jar:mariadb-java-client-3.0.5.jar water.H2OApp`
    
      Si se quiere ejecutar una segunda vez, el siguiente comando es suficiente `java -jar h2o.jar`
