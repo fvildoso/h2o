@@ -27,7 +27,7 @@ Este repositorio contiene un ejemplo de como usar <a href="https://h2o.ai/platfo
 9. Copiar driver descargado en paso 4 en la carpeta donde quedó descomprimido H2O en el paso 3.
 
    <u>Imagen de referencia 1</u> <img src="media/img.png" alt="example 1">
-10. Ejecutar comando en una consola CMD/PowerShell (Windows) o terminal (Max/Linux) en la carpeta donde está
+10. Ejecutar comando en una consola CMD/PowerShell (Windows) o terminal (Mac/Linux) en la carpeta donde está
     descomprimido H2O:
     - Windows:
         - CMD: `java -cp h2o.jar;mariadb-java-client-3.0.5.jar water.H2OApp`
