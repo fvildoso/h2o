@@ -10,7 +10,7 @@ Este repositorio contiene un ejemplo de como usar <a href="https://h2o.ai/platfo
 2. Bajar e instalar Java11. Se sugiere usar la distribución de Amazon Corretto:
     - Windows: https://corretto.aws/downloads/latest/amazon-corretto-11-x64-windows-jdk.msi
     - Otros sistemas: https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html
-3. Bajar H2O https://h2o-release.s3.amazonaws.com/h2o/rel-zumbo/2/index.html y descomprimir.
+3. Bajar [H2O](https://h2o-release.s3.amazonaws.com/h2o/rel-zz_kurka/4/index.html) y descomprimir.
 4. Bajar driver de MariaDB para Java (versión 3.0.5) desde
    maven: https://repo1.maven.org/maven2/org/mariadb/jdbc/mariadb-java-client/3.0.5/mariadb-java-client-3.0.5.jar.
    También disponible en carpeta `drivers` de este repositorio.
